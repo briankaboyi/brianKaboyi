@@ -2,9 +2,9 @@
 <h3 align="left">A passionate fullstack developer from Kenya</h3>
 <img align="center" alt="coding" width="600" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif">
 
-- 🔭 I’m currently working on **Mobile App Development**
+- 🔭 I’m currently working on **Native Mobile App Development**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
 
 - 📫 How to reach me **brianmkaboyi@gmail.com**
 
