@@ -1,24 +1,59 @@
-<h1 align="left">Hi 👋, I'm Brian Kaboyi</h1>
-<h3 align="left">A passionate fullstack developer from Kenya</h3>
-<img align="center" alt="coding" width="600" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif">
+<h1 align="center">Hey there, I'm Brian 👋</h1>
+<h3 align="center">Mobile Developer | Flutter & Kotlin | Builder of Beautiful Things</h3>
 
-- 🔭 I’m currently working on **Native Mobile App Development**
-
-- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
-
-- 📫 How to reach me **brianmkaboyi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brian-mongo-7a28b62a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-mongo-7a28b62a0" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:brianmkaboyi@gmail.com">📫 Email</a> •
+  <a href="https://linkedin.com/in/brianmongo">💼 LinkedIn</a> •
+  <a href="https://github.com/briankaboyi">🐙 GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/>
-</a> <a href="https://developer.android.com/develop/ui/compose" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="jetpack compose" width="40" height="40"/>
-</a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briankaboyi&show_icons=true&locale=en&layout=compact" alt="briankaboyi" /></p>
+### 🚀 About Me
 
+Hi! I’m Brian — a mobile developer passionate about building **delightful, high-performance mobile apps**. I specialize in **Flutter**, and lately I’ve been diving deeper into **Kotlin** and **Jetpack Compose** to expand my Android expertise.
+
+I'm self-taught, fueled by curiosity, and committed to writing clean, scalable code that solves real problems.
+
+> _"Learning never stops — and neither does building."_ 💡
+
+---
+
+### 🛠️ What I’m Working With
+
+- **Languages**: Dart, Kotlin, Java, JavaScript
+- **Mobile Dev**: Flutter, Jetpack Compose, Android SDK
+- **State Management**: GetX, Provider
+- **Tools**: Firebase, REST APIs, Git, Android Studio, Figma
+- **Practices**: Modular Architecture, Agile, Testing (Widget, Unit)
+
+---
+
+### 🧪 Currently Exploring
+
+- Building native UIs with **Jetpack Compose**
+- Writing clean, testable Kotlin code
+- Architecting hybrid apps using Flutter + platform channels
+- AI & chat integrations into mobile workflows
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=briankaboyi&show_icons=true&theme=tokyonight" alt="Brian's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=briankaboyi&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankaboyi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+Whether you're looking for a collaborator, hiring a dev, or just exploring — feel free to reach out. I'm always excited to connect with like-minded builders.
+
+---
+
+> _“Great mobile apps are crafted with care — not just coded.”_ 🚀
