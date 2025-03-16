@@ -39,6 +39,10 @@ I'm self-taught, fueled by curiosity, and committed to writing clean, scalable c
 ---
 
 ### 📊 GitHub Stats
+[![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=briankaboyi&count_private=true&show_icons=true&theme=radical)](https://github.com/briankaboyi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briankaboyi&layout=compact&count_private=true&theme=radical)](https://github.com/briankaboyi)
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=briankaboyi&theme=tokyonight" alt="GitHub Streak" />
