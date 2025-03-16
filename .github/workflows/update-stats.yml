@@ -1,0 +1,15 @@
+name: Update GitHub Stats with Private Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
