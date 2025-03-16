@@ -43,13 +43,13 @@ I'm self-taught, fueled by curiosity, and committed to writing clean, scalable c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briankaboyi&layout=compact&count_private=true&theme=radical)](https://github.com/briankaboyi)
 
-/*
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=briankaboyi&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankaboyi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-*/
+-->
 ---
 
 ### 🤝 Let’s Connect
